@@ -2,7 +2,7 @@ Name,Date + Time,Location,Type,Region,Latitude,Longitude,Weather Forecast
 Dead Bars,1/19/2024,Slim's Last Chance,Music,South Seattle,47.5524903,-122.33389967462686,unknown
 Emotional: A Night For The Heartbroken,1/19/2024,Chop Suey,Music,Capitol Hill / Central District,47.6135323,-122.31445524950735,unknown
 Loonieboys,1/19/2024,Funhouse,Music,Capitol Hill / Central District,43.6576535,-72.2840663,unknown
-Corteo,Now through 1/20/2024,Climate Pledge Arena,Theatre,Queen Anne / Seattle Center,47.6219014,-122.353990491486,Mostly Cloudy
+Corteo,Now through 1/20/2024,Climate Pledge Arena,Theatre,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
 Bewitcher,1/20/2024,Funhouse,Music,Capitol Hill / Central District,43.6576535,-72.2840663,unknown
 burn burn burn,1/20/2024,Slim's Last Chance,Music,South Seattle,47.5524903,-122.33389967462686,unknown
 Carly Ann Calbero,1/20/2024,The Royal Room,Music,South Seattle,47.5569023,-122.2842722,unknown
@@ -11,8 +11,8 @@ Gary Janetti,1/20/2024,The Neptune Theatre,Theatre,University District,47.661298
 Jammah,1/20/2024,Sea Monster Lounge,Music,Wallingford / Greenlake,47.6615049,-122.332319,unknown
 Saturday Family Concert: The Harmonica Pocket,1/20/2024,Town Hall Seattle,Music,Downtown,47.6090191,-122.32993774092222,unknown
 Seattle Thunderbirds vs. Tri-City Americans,1/20/2024,accesso ShoWare Center,Sports,South,47.38765995,-122.24000381780328,unknown
-"Hokusai: Inspiration and Influence, from The Collection of The Museum of Fine Arts, Boston",Now through 1/21/2024,Seattle Art Museum,Museums,Downtown,47.6077008,-122.3385575,Mostly Cloudy
-An Evening with Chris Botti,Now through 1/21/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691,Mostly Cloudy
+"Hokusai: Inspiration and Influence, from The Collection of The Museum of Fine Arts, Boston",Now through 1/21/2024,Seattle Art Museum,Museums,Downtown,47.6077008,-122.3385575,unknown
+An Evening with Chris Botti,Now through 1/21/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691,unknown
 Bluey�s Big Play,1/20/2024 through 1/21/2024,The Paramount Theatre,Theatre,Downtown,38.030837399999996,-78.47999700513506,unknown
 Mike Birbiglia: Please Stop the Ride,1/20/2024 through 1/21/2024,The Moore Theatre,Theatre,Downtown,42.2896932,-83.7207314,unknown
 Austin Plaine,1/21/2024,Funhouse,Music,Capitol Hill / Central District,43.6576535,-72.2840663,unknown
@@ -26,7 +26,7 @@ Curator Tour: Joseph A. Witt Winter Garden,1/23/2024,Washington Park Arboretum,T
 Synthwave DJ Dance Party,1/23/2024,High Dive,Music,Fremont / Ballard,41.7111625,-93.6318959,unknown
 Wiley from Atlanta,1/23/2024,Funhouse,Music,Capitol Hill / Central District,43.6576535,-72.2840663,unknown
 Winter Reverb,1/23/2024,Chop Suey,Music,Capitol Hill / Central District,47.6135323,-122.31445524950735,unknown
-Tribute to John Williams,Now through 1/24/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Mostly Cloudy
+Tribute to John Williams,Now through 1/24/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
 Lakecia Benjamin and Phoenix,1/23/2024 through 1/24/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691,unknown
 Corey Harper,1/24/2024,Barboza,Music,Capitol Hill / Central District,47.6138274,-122.3196284,unknown
 DJ Shadow,1/24/2024,The Neptune Theatre,Music,University District,47.6612984,-122.3131523,unknown
@@ -52,90 +52,90 @@ Seattle Kraken vs. St. Louis Blues,1/26/2024,Climate Pledge Arena,Sports,Queen A
 Shelf Nunny,1/26/2024,Barboza,Music,Capitol Hill / Central District,47.6138274,-122.3196284,unknown
 Super Diamond � The Neil Diamond Tribute Band,1/26/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,unknown
 The Disorderlies,1/26/2024,Slim's Last Chance,Music,South Seattle,47.5524903,-122.33389967462686,unknown
-Compania Nacional de Danza,1/25/2024 through 1/27/2024,Meany Center for the Performing Arts,Dance,University District,47.6612984,-122.3131523,Rain
+Compania Nacional de Danza,1/25/2024 through 1/27/2024,Meany Center for the Performing Arts,Dance,University District,47.6612984,-122.3131523,Light Rain
 Metropolis,1/25/2024 through 1/27/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Rain
 Andy Coe Band,1/26/2024 through 1/27/2024,Nectar Lounge,Music,Fremont / Ballard,47.6523876,-122.3538541520202,Rain
-Harlem Globetrotters,1/27/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,Mostly Cloudy
-Seattle Thunderbirds vs. Everett Silvertips,1/27/2024,accesso ShoWare Center,Sports,South,47.38765995,-122.24000381780328,Mostly Cloudy
-The Budos Band,1/27/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Mostly Cloudy
+Harlem Globetrotters,1/27/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,Rain
+Seattle Thunderbirds vs. Everett Silvertips,1/27/2024,accesso ShoWare Center,Sports,South,47.38765995,-122.24000381780328,Rain
+The Budos Band,1/27/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Rain
 The Human Family,1/27/2024,Opera Center,Music,Queen Anne / Seattle Center,44.43358325,26.079138268508792,unknown
-Steinunn Porarinsdottir: Wayfinders,Now through 1/28/2024,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151,Mostly Cloudy
-Hanako O�Leary: Izanami,Now through 1/28/2024,Frye Art Museum,Museums,Capitol Hill / Central District,47.60719095,-122.32405377084555,Mostly Cloudy
-Gage Alumni Show,Now through 1/28/2024,Fountainhead Gallery,Visual Arts & Galleries,Queen Anne / Seattle Center,28.1110963,-80.6740045,Mostly Cloudy
-Bohemia,Now through 1/28/2024,The Triple Door,Theatre,Downtown,47.6086439,-122.337685,Mostly Cloudy
+Steinunn Porarinsdottir: Wayfinders,Now through 1/28/2024,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151,Rain
+Hanako O�Leary: Izanami,Now through 1/28/2024,Frye Art Museum,Museums,Capitol Hill / Central District,47.60719095,-122.32405377084555,Rain
+Gage Alumni Show,Now through 1/28/2024,Fountainhead Gallery,Visual Arts & Galleries,Queen Anne / Seattle Center,28.1110963,-80.6740045,Patchy Fog then Mostly Sunny
+Bohemia,Now through 1/28/2024,The Triple Door,Theatre,Downtown,47.6086439,-122.337685,Rain
 Lee Ritenour and Dave Grusin,1/25/2024 through 1/28/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691,Rain
-Celebrate Asia,1/28/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Mostly Cloudy
-Family Day with Birds Connect Seattle,1/28/2024,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151,Mostly Cloudy
-Seattle Kraken vs. Columbus Blue Jackets,1/28/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,Mostly Cloudy
-Tacoma Stars vs. San Diego Sockers,1/28/2024,accesso ShoWare Center,Sports,South,47.38765995,-122.24000381780328,Mostly Cloudy
-Adira Sharkey,1/29/2024,Tractor Tavern,Music,Fremont / Ballard,47.6657081,-122.38280295082915,Mostly Cloudy
-"Car, The Garden",1/29/2024,The Crocodile,Music,Downtown,47.6146474,-122.3490734,Mostly Cloudy
-Cheryl Wheeler,1/30/2024,The Triple Door,Music,Downtown,47.6086439,-122.337685,Mostly Cloudy
-Giantish,1/30/2024,High Dive,Music,Fremont / Ballard,41.7111625,-93.6318959,Areas Of Fog
-Seattle Thunderbirds vs. Prince George Cougars,1/30/2024,accesso ShoWare Center,Sports,South,47.38765995,-122.24000381780328,Mostly Cloudy
-A/political Rocks,Now through 1/31/2024,Henry Art Gallery,Museums,University District,47.6565246,-122.31173279895636,Mostly Cloudy
-Sophia Al-Maria,Now through 1/31/2024,Henry Art Gallery,Museums,University District,47.6565246,-122.31173279895636,Mostly Cloudy
-Jahari Stampley,1/30/2024 through 1/31/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691,Mostly Cloudy
-FRAKTURED: Home of the Broken Beat,1/31/2024,High Dive,Music,Fremont / Ballard,41.7111625,-93.6318959,Areas Of Fog
-G3- 25th Anniversary reunion,1/31/2024,The Moore Theatre,Music,Downtown,42.2896932,-83.7207314,Rain Showers
-JP Saxe,1/31/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Mostly Cloudy
-Los Lobos,1/31/2024,The Triple Door,Music,Downtown,47.6086439,-122.337685,Mostly Cloudy
-BabyTron,2/1/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Mostly Cloudy
-Catalyzing Change with Akuyea Karen Vargas,2/1/2024,Bainbridge Island Museum of Art,Readings & Lectures,West,47.6251322,-122.51453295865404,Mostly Cloudy
-Jamila Woods,2/1/2024,Neumos,Music,Capitol Hill / Central District,47.613954,-122.3196108,Mostly Cloudy
-Jazz is Dead: Blue Note 85,2/1/2024,The Neptune Theatre,Music,University District,47.6612984,-122.3131523,Mostly Cloudy
-Michelle Cann,2/1/2024,Meany Center for the Performing Arts,Music,University District,47.6612984,-122.3131523,Mostly Cloudy
-Pakt,2/1/2024,Funhouse,Music,Capitol Hill / Central District,43.6576535,-72.2840663,Light Rain Likely
-Erik Walters,2/2/2024,Barboza,Music,Capitol Hill / Central District,47.6138274,-122.3196284,Mostly Cloudy
-Memoir,2/2/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Mostly Cloudy
-Nora En Pure,2/2/2024,Showbox SoDo,Music,Pioneer Square,47.5880461,-122.333928,Mostly Cloudy
-Poolside,2/2/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Mostly Cloudy
-Tacoma Stars vs. Monterrey Flash,2/2/2024,accesso ShoWare Center,Sports,South,47.38765995,-122.24000381780328,Mostly Cloudy
+Celebrate Asia,1/28/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Rain
+Family Day with Birds Connect Seattle,1/28/2024,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151,Rain
+Seattle Kraken vs. Columbus Blue Jackets,1/28/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,Rain
+Tacoma Stars vs. San Diego Sockers,1/28/2024,accesso ShoWare Center,Sports,South,47.38765995,-122.24000381780328,Rain
+Adira Sharkey,1/29/2024,Tractor Tavern,Music,Fremont / Ballard,47.6657081,-122.38280295082915,Rain
+"Car, The Garden",1/29/2024,The Crocodile,Music,Downtown,47.6146474,-122.3490734,Rain
+Cheryl Wheeler,1/30/2024,The Triple Door,Music,Downtown,47.6086439,-122.337685,Rain
+Giantish,1/30/2024,High Dive,Music,Fremont / Ballard,41.7111625,-93.6318959,unknown
+Seattle Thunderbirds vs. Prince George Cougars,1/30/2024,accesso ShoWare Center,Sports,South,47.38765995,-122.24000381780328,Rain
+A/political Rocks,Now through 1/31/2024,Henry Art Gallery,Museums,University District,47.6565246,-122.31173279895636,Light Rain
+Sophia Al-Maria,Now through 1/31/2024,Henry Art Gallery,Museums,University District,47.6565246,-122.31173279895636,Light Rain
+Jahari Stampley,1/30/2024 through 1/31/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691,Rain
+FRAKTURED: Home of the Broken Beat,1/31/2024,High Dive,Music,Fremont / Ballard,41.7111625,-93.6318959,Patchy Fog
+G3- 25th Anniversary reunion,1/31/2024,The Moore Theatre,Music,Downtown,42.2896932,-83.7207314,Areas Of Fog
+JP Saxe,1/31/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Rain
+Los Lobos,1/31/2024,The Triple Door,Music,Downtown,47.6086439,-122.337685,Rain
+BabyTron,2/1/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Rain
+Catalyzing Change with Akuyea Karen Vargas,2/1/2024,Bainbridge Island Museum of Art,Readings & Lectures,West,47.6251322,-122.51453295865404,Rain
+Jamila Woods,2/1/2024,Neumos,Music,Capitol Hill / Central District,47.613954,-122.3196108,Rain
+Jazz is Dead: Blue Note 85,2/1/2024,The Neptune Theatre,Music,University District,47.6612984,-122.3131523,Rain
+Michelle Cann,2/1/2024,Meany Center for the Performing Arts,Music,University District,47.6612984,-122.3131523,Rain
+Pakt,2/1/2024,Funhouse,Music,Capitol Hill / Central District,43.6576535,-72.2840663,unknown
+Erik Walters,2/2/2024,Barboza,Music,Capitol Hill / Central District,47.6138274,-122.3196284,Rain
+Memoir,2/2/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Rain
+Nora En Pure,2/2/2024,Showbox SoDo,Music,Pioneer Square,47.5880461,-122.333928,Rain
+Poolside,2/2/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Rain
+Tacoma Stars vs. Monterrey Flash,2/2/2024,accesso ShoWare Center,Sports,South,47.38765995,-122.24000381780328,Rain
 Jaha Koo: The History of Korean Western Theatre,2/1/2024 through 2/3/2024,On The Boards,Theatre,Queen Anne / Seattle Center,50.2622955,-5.0548053,unknown
-The Winds: Medley of Emotions,2/2/2024 through 2/3/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Mostly Cloudy
-All Will Suffer,2/3/2024,Funhouse,Music,Capitol Hill / Central District,43.6576535,-72.2840663,Light Rain Likely
-Cold War Kids � 20 Years Tour,2/3/2024,The Moore Theatre,Music,Downtown,42.2896932,-83.7207314,Rain Showers
-Mau P,2/3/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Mostly Cloudy
-Randy Rainbow for President,2/3/2024,The Paramount Theatre,Theatre,Downtown,38.030837399999996,-78.47999700513506,Areas Of Fog
-The Delta Bombers,2/3/2024,El Corazon,Music,Downtown,43.6529365,-70.2671548,Chance Light Rain
+The Winds: Medley of Emotions,2/2/2024 through 2/3/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Rain
+All Will Suffer,2/3/2024,Funhouse,Music,Capitol Hill / Central District,43.6576535,-72.2840663,Areas Of Fog
+Cold War Kids � 20 Years Tour,2/3/2024,The Moore Theatre,Music,Downtown,42.2896932,-83.7207314,Areas Of Fog
+Mau P,2/3/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Rain
+Randy Rainbow for President,2/3/2024,The Paramount Theatre,Theatre,Downtown,38.030837399999996,-78.47999700513506,unknown
+The Delta Bombers,2/3/2024,El Corazon,Music,Downtown,43.6529365,-70.2671548,Areas Of Fog
 Seattle Chamber Music Winter Festival,1/26/2024 through 2/4/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Rain
-Beethoven Emperor Concerto,2/1/2024 through 2/4/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Mostly Cloudy
-Sergio Mendes,2/1/2024 through 2/4/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691,Mostly Cloudy
-Daniel Tiger�s Neighborhood,2/4/2024,The Paramount Theatre,Theatre,Downtown,38.030837399999996,-78.47999700513506,Areas Of Fog
-Lil Skies,2/4/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Mostly Cloudy
-Criminal,2/5/2024,The Moore Theatre,Theatre,Downtown,42.2896932,-83.7207314,Rain Showers
-Neck Deep,2/5/2024,Showbox SoDo,Music,Pioneer Square,47.5880461,-122.333928,Mostly Cloudy
-Kazu Kibuishi with Donna Barba Higuera,2/6/2024,Town Hall Seattle,Readings & Lectures,Downtown,47.6090191,-122.32993774092222,Mostly Cloudy
-Night Lovell,2/6/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Mostly Cloudy
-Soja,2/6/2024,The Neptune Theatre,Music,University District,47.6612984,-122.3131523,Mostly Cloudy
-Kenny Barron Trio,2/6/2024 through 2/7/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691,Mostly Cloudy
-Tamara Payne: The Life and Legacy of Malcolm X,2/7/2024,Town Hall Seattle,Readings & Lectures,Downtown,47.6090191,-122.32993774092222,Mostly Cloudy
-The Kills,2/7/2024,Showbox SoDo,Music,Pioneer Square,47.5880461,-122.333928,Mostly Cloudy
-An Evening with Tina Campt: Black Feminist Visual Culture,2/8/2024,Town Hall Seattle,Readings & Lectures,Downtown,47.6090191,-122.32993774092222,Mostly Cloudy
-Art and Transformation,2/8/2024,Bainbridge Island Museum of Art,Readings & Lectures,West,47.6251322,-122.51453295865404,Mostly Cloudy
-Eric Bellinger,2/8/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Mostly Cloudy
-Futurebirds and Nude Party,2/8/2024,The Neptune Theatre,Music,University District,47.6612984,-122.3131523,Mostly Cloudy
-Ilana Glazer Live,2/8/2024,The Moore Theatre,Theatre,Downtown,42.2896932,-83.7207314,Rain Showers
-Mister Blank,2/8/2024,Nectar Lounge,Music,Fremont / Ballard,47.6523876,-122.3538541520202,Mostly Cloudy
-The Thorn,2/8/2024 through 2/9/2024,The Paramount Theatre,Theatre,Downtown,38.030837399999996,-78.47999700513506,Areas Of Fog
-Barry Can�t Swim,2/9/2024,Neumos,Music,Capitol Hill / Central District,47.613954,-122.3196108,Mostly Cloudy
-Dark Star Orchestra,2/9/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Mostly Cloudy
-Gov�t Mule,2/9/2024,The Moore Theatre,Music,Downtown,42.2896932,-83.7207314,Rain Showers
-Mayer Hawthorne,2/9/2024,The Neptune Theatre,Music,University District,47.6612984,-122.3131523,Mostly Cloudy
-Moontricks,2/9/2024,The Crocodile,Music,Downtown,47.6146474,-122.3490734,Mostly Cloudy
-OBOE / OBOE,2/9/2024,415 Westlake,Music,Queen Anne / Seattle Center,47.622554,-122.3386578,Mostly Cloudy
-Seattle Boat Show,2/2/2024 through 2/10/2024,Lumen Field,Festivals & Special Events,Pioneer Square,47.5953459,-122.33164431196111,Mostly Cloudy
-Randall Goosby Plays Mozart,2/8/2024 through 2/10/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Mostly Cloudy
-Art by Design,2/9/2024 through 2/10/2024,Seattle Design Center,Visual Arts & Galleries,Downtown,47.55148885,-122.32828666347223,Mostly Cloudy
-Brazilian Carnaval 2024,2/10/2024,The Crocodile,Music,Downtown,47.6146474,-122.3490734,Mostly Cloudy
-Chase Rice,2/10/2024,Showbox SoDo,Music,Pioneer Square,47.5880461,-122.333928,Mostly Cloudy
-Joe �Mr. D�  Dombrowski,2/10/2024,The Moore Theatre,Theatre,Downtown,42.2896932,-83.7207314,Rain Showers
-JVNA,2/10/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,Mostly Cloudy
-The Temptations &  The Four Tops,2/10/2024,The Paramount Theatre,Music,Downtown,38.030837399999996,-78.47999700513506,Areas Of Fog
-Quixote Nuevo,Now through 2/11/2024,Seattle Rep,Theatre,Queen Anne / Seattle Center,47.6145597,-122.3285576,Mostly Cloudy
-Kent Stowell�s Swan Lake,2/2/2024 through 2/11/2024,Marion Oliver McCaw Hall,Dance,Queen Anne / Seattle Center,47.62397705,-122.35038850536958,Mostly Cloudy
-Blood Sweat  and Tears,2/8/2024 through 2/11/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691,Mostly Cloudy
-Love at the Zoo,2/10/2024 through 2/11/2024,Point Defiance Zoo and Aquarium,Festivals & Special Events,South,47.3049439,-122.52137750626918,Mostly Cloudy
+Beethoven Emperor Concerto,2/1/2024 through 2/4/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Rain
+Sergio Mendes,2/1/2024 through 2/4/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691,Rain
+Daniel Tiger�s Neighborhood,2/4/2024,The Paramount Theatre,Theatre,Downtown,38.030837399999996,-78.47999700513506,unknown
+Lil Skies,2/4/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,unknown
+Criminal,2/5/2024,The Moore Theatre,Theatre,Downtown,42.2896932,-83.7207314,unknown
+Neck Deep,2/5/2024,Showbox SoDo,Music,Pioneer Square,47.5880461,-122.333928,unknown
+Kazu Kibuishi with Donna Barba Higuera,2/6/2024,Town Hall Seattle,Readings & Lectures,Downtown,47.6090191,-122.32993774092222,unknown
+Night Lovell,2/6/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,unknown
+Soja,2/6/2024,The Neptune Theatre,Music,University District,47.6612984,-122.3131523,unknown
+Kenny Barron Trio,2/6/2024 through 2/7/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691,unknown
+Tamara Payne: The Life and Legacy of Malcolm X,2/7/2024,Town Hall Seattle,Readings & Lectures,Downtown,47.6090191,-122.32993774092222,unknown
+The Kills,2/7/2024,Showbox SoDo,Music,Pioneer Square,47.5880461,-122.333928,unknown
+An Evening with Tina Campt: Black Feminist Visual Culture,2/8/2024,Town Hall Seattle,Readings & Lectures,Downtown,47.6090191,-122.32993774092222,unknown
+Art and Transformation,2/8/2024,Bainbridge Island Museum of Art,Readings & Lectures,West,47.6251322,-122.51453295865404,unknown
+Eric Bellinger,2/8/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,unknown
+Futurebirds and Nude Party,2/8/2024,The Neptune Theatre,Music,University District,47.6612984,-122.3131523,unknown
+Ilana Glazer Live,2/8/2024,The Moore Theatre,Theatre,Downtown,42.2896932,-83.7207314,unknown
+Mister Blank,2/8/2024,Nectar Lounge,Music,Fremont / Ballard,47.6523876,-122.3538541520202,unknown
+The Thorn,2/8/2024 through 2/9/2024,The Paramount Theatre,Theatre,Downtown,38.030837399999996,-78.47999700513506,unknown
+Barry Can�t Swim,2/9/2024,Neumos,Music,Capitol Hill / Central District,47.613954,-122.3196108,unknown
+Dark Star Orchestra,2/9/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,unknown
+Gov�t Mule,2/9/2024,The Moore Theatre,Music,Downtown,42.2896932,-83.7207314,unknown
+Mayer Hawthorne,2/9/2024,The Neptune Theatre,Music,University District,47.6612984,-122.3131523,unknown
+Moontricks,2/9/2024,The Crocodile,Music,Downtown,47.6146474,-122.3490734,unknown
+OBOE / OBOE,2/9/2024,415 Westlake,Music,Queen Anne / Seattle Center,47.622554,-122.3386578,unknown
+Seattle Boat Show,2/2/2024 through 2/10/2024,Lumen Field,Festivals & Special Events,Pioneer Square,47.5953459,-122.33164431196111,Rain
+Randall Goosby Plays Mozart,2/8/2024 through 2/10/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
+Art by Design,2/9/2024 through 2/10/2024,Seattle Design Center,Visual Arts & Galleries,Downtown,47.55148885,-122.32828666347223,unknown
+Brazilian Carnaval 2024,2/10/2024,The Crocodile,Music,Downtown,47.6146474,-122.3490734,unknown
+Chase Rice,2/10/2024,Showbox SoDo,Music,Pioneer Square,47.5880461,-122.333928,unknown
+Joe �Mr. D�  Dombrowski,2/10/2024,The Moore Theatre,Theatre,Downtown,42.2896932,-83.7207314,unknown
+JVNA,2/10/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,unknown
+The Temptations &  The Four Tops,2/10/2024,The Paramount Theatre,Music,Downtown,38.030837399999996,-78.47999700513506,unknown
+Quixote Nuevo,Now through 2/11/2024,Seattle Rep,Theatre,Queen Anne / Seattle Center,47.6145597,-122.3285576,Rain
+Kent Stowell�s Swan Lake,2/2/2024 through 2/11/2024,Marion Oliver McCaw Hall,Dance,Queen Anne / Seattle Center,47.62397705,-122.35038850536958,Rain
+Blood Sweat  and Tears,2/8/2024 through 2/11/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691,unknown
+Love at the Zoo,2/10/2024 through 2/11/2024,Point Defiance Zoo and Aquarium,Festivals & Special Events,South,47.3049439,-122.52137750626918,unknown
 Scott Bradlee�s Postmodern Jukebox,2/11/2024,The Paramount Theatre,Music,Downtown,38.030837399999996,-78.47999700513506,unknown
 Tourist and Amtrac,2/11/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,unknown
 Eliades Ochoa,2/13/2024,The Moore Theatre,Music,Downtown,42.2896932,-83.7207314,unknown
@@ -145,7 +145,7 @@ Cory Wong Winter 2024 Tour,2/16/2024,The Paramount Theatre,Music,Downtown,38.030
 Circa:Humans 2.0,2/15/2024 through 2/17/2024,Meany Center for the Performing Arts,Theatre,University District,47.6612984,-122.3131523,unknown
 Jon Batiste,2/17/2024,The Paramount Theatre,Music,Downtown,38.030837399999996,-78.47999700513506,unknown
 TobyMac Hits Deep 2024,2/17/2024,accesso ShoWare Center,Music,South,47.38765995,-122.24000381780328,unknown
-A Case for the Existence of God,2/2/2024 through 2/18/2024,ACT Theatre,Theatre,Downtown,47.6108495,-122.3323262,Mostly Cloudy
+A Case for the Existence of God,2/2/2024 through 2/18/2024,ACT Theatre,Theatre,Downtown,47.6108495,-122.3323262,Rain
 Northwest Flower & Garden Festival,2/14/2024 through 2/18/2024,Seattle Convention Center,Festivals & Special Events,Downtown,47.61175385,-122.33156275066185,unknown
 The Princess Bride in Concert with the Seattle Symphony,2/14/2024 through 2/18/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
 Mindi Abair Wine and Jazz Tour 2024,2/15/2024 through 2/18/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691,unknown
@@ -159,24 +159,24 @@ Mahogany � smARTfilms: Black Luxury,2/20/2024,Bainbridge Island Museum of Art,
 The Cookers,2/20/2024 through 2/21/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691,unknown
 Side-by-Side with Seattle Youth Symphony Orchestra,2/21/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
 Seattle Kraken vs. Vancouver Canucks,2/22/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
-Funky Friday with F2D,Now through 2/23/2024,Sea Monster Lounge,Music,Wallingford / Greenlake,47.6615049,-122.332319,Mostly Cloudy
+Funky Friday with F2D,Now through 2/23/2024,Sea Monster Lounge,Music,Wallingford / Greenlake,47.6615049,-122.332319,Light Rain
 BLACKSTAR SYMPHONY: The Music of David Bowie,2/23/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
 Opera Talk: The Making of X,2/23/2024,Opera Center,Readings & Lectures,Queen Anne / Seattle Center,44.43358325,26.079138268508792,unknown
 Wreckno,2/23/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,unknown
-Kelly Akashi,Now through 2/24/2024,Henry Art Gallery,Museums,University District,47.6565246,-122.31173279895636,Mostly Cloudy
-The Lower Depths,2/6/2024 through 2/24/2024,Erickson Theatre,Theatre,Capitol Hill / Central District,47.61467195,-122.3217419,Mostly Cloudy
+Kelly Akashi,Now through 2/24/2024,Henry Art Gallery,Museums,University District,47.6565246,-122.31173279895636,Light Rain
+The Lower Depths,2/6/2024 through 2/24/2024,Erickson Theatre,Theatre,Capitol Hill / Central District,47.61467195,-122.3217419,unknown
 Dan Brown Wild Symphony,2/24/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
 Pink Sweat$,2/24/2024,The Showbox,Music,Downtown,47.6085136,-122.3394726,unknown
 Seattle Kraken vs. Minnesota Wild,2/24/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
 Small Island Big Song,2/24/2024,Meany Center for the Performing Arts,Music,University District,47.6612984,-122.3131523,unknown
-Born With Teeth,2/1/2024 through 2/25/2024,ArtsWest Playhouse and Gallery,Theatre,West Seattle,47.5709315,-122.3865166,Mostly Cloudy
-"Once More, Just For You",2/5/2024 through 2/25/2024,Seattle Public Theater,Theatre,Wallingford / Greenlake,47.6821341,-122.3398325,Mostly Cloudy
+Born With Teeth,2/1/2024 through 2/25/2024,ArtsWest Playhouse and Gallery,Theatre,West Seattle,47.5709315,-122.3865166,Rain
+"Once More, Just For You",2/5/2024 through 2/25/2024,Seattle Public Theater,Theatre,Wallingford / Greenlake,47.6821341,-122.3398325,unknown
 Wintergrass Music Festival,2/22/2024 through 2/25/2024,Hyatt Regency Bellevue,Festivals & Special Events,Bellevue / Eastside,47.618258,-122.20116,unknown
 Seattle Kraken vs. Boston Bruins,2/26/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
 Hunt for Sleeping Giants | National Geographic Live,2/25/2024 through 2/27/2024,Benaroya Hall,Readings & Lectures,Downtown,47.60811665,-122.33697040702705,unknown
 Playboi Carti,2/28/2024,Climate Pledge Arena,Music,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
-Winter Brilliance,Now through 2/29/2024,Chihuly Garden and Glass,Museums,Queen Anne / Seattle Center,47.6205296,-122.35020712496446,Mostly Cloudy
-Seattle Museum Month,2/1/2024 through 2/29/2024,Downtown Seattle,Museums,Downtown,47.5989361,-122.3279543,Mostly Cloudy
+Winter Brilliance,Now through 2/29/2024,Chihuly Garden and Glass,Museums,Queen Anne / Seattle Center,47.6205296,-122.35020712496446,Rain
+Seattle Museum Month,2/1/2024 through 2/29/2024,Downtown Seattle,Museums,Downtown,47.5989361,-122.3279543,Rain
 Seattle Kraken vs. Pittsburgh Penguins,2/29/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
 The Human Family,2/29/2024,LANGSTON Seattle,Music,Capitol Hill / Central District,47.6012977,-122.30982515103054,unknown
 Fall Out Boy,3/1/2024,Climate Pledge Arena,Readings & Lectures,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
@@ -192,8 +192,8 @@ X:The Life and Times of Malcolm X,2/24/2024 through 3/9/2024,Marion Oliver McCaw
 Bach St. John Passion,3/7/2024 through 3/9/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
 Helene Grimaud,3/9/2024,Meany Center for the Performing Arts,Music,University District,47.6612984,-122.3131523,unknown
 Positive Fragmentation,Now through 3/10/2024,Bellevue Arts Museum,Museums,Bellevue / Eastside,-21.266983,55.4113864,unknown
-Antonio M. Gomez: LINEAJES,Now through 3/10/2024,Frye Art Museum,Museums,Capitol Hill / Central District,47.60719095,-122.32405377084555,Mostly Cloudy
-Soren Solkaer: Sort Sol,Now through 3/10/2024,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151,Mostly Cloudy
+Antonio M. Gomez: LINEAJES,Now through 3/10/2024,Frye Art Museum,Museums,Capitol Hill / Central District,47.60719095,-122.32405377084555,Rain
+Soren Solkaer: Sort Sol,Now through 3/10/2024,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151,Rain
 Luchadora!,2/22/2024 through 3/10/2024,Seattle Children's Theatre,Theatre,Queen Anne / Seattle Center,47.6204553,-122.35225726215312,unknown
 Wild Cats Revealed | National Geographic Live,3/10/2024 through 3/12/2024,Benaroya Hall,Readings & Lectures,Downtown,47.60811665,-122.33697040702705,unknown
 Seattle Kraken vs. Vegas Golden Knights,3/12/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
@@ -202,9 +202,9 @@ Mark Morris Dance Group: The Look of Love,3/14/2024 through 3/16/2024,Meany Cent
 Sibelius & Nielsen,3/14/2024 through 3/16/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
 Tacoma Stars vs. Chihuahua Savage,3/15/2024 through 3/16/2024,accesso ShoWare Center,Sports,South,47.38765995,-122.24000381780328,unknown
 Seattle Kraken vs. Nashville Predators,3/16/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
-Native Portraiture: Power and Perception,Now through 3/17/2024,Tacoma Art Museum,Museums,South,47.2475134,-122.43680521780016,Mostly Cloudy
-Places to Call Home: Settlements in the West,Now through 3/17/2024,Tacoma Art Museum,Museums,South,47.2475134,-122.43680521780016,Mostly Cloudy
-Nobody Lives Here,Now through 3/17/2024,Wing Luke Museum,Museums,International District,47.5982461,-122.3228705,Mostly Cloudy
+Native Portraiture: Power and Perception,Now through 3/17/2024,Tacoma Art Museum,Museums,South,47.2475134,-122.43680521780016,Rain
+Places to Call Home: Settlements in the West,Now through 3/17/2024,Tacoma Art Museum,Museums,South,47.2475134,-122.43680521780016,Rain
+Nobody Lives Here,Now through 3/17/2024,Wing Luke Museum,Museums,International District,47.5982461,-122.3228705,Rain
 Rootabaga Country,3/8/2024 through 3/17/2024,Opera Center,Music,Queen Anne / Seattle Center,44.43358325,26.079138268508792,unknown
 Seattle Kraken vs. Buffalo Sabres,3/18/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
 Tacoma Stars vs. Empire Strykers,3/23/2024,accesso ShoWare Center,Sports,South,47.38765995,-122.24000381780328,unknown
@@ -218,18 +218,18 @@ Tim McGraw,3/29/2024,Climate Pledge Arena,Music,Queen Anne / Seattle Center,47.6
 Harold and the Purple Crayon,3/23/2024 through 3/30/2024,Marion Oliver McCaw Hall,Dance,Queen Anne / Seattle Center,47.62397705,-122.35038850536958,unknown
 Seattle Kraken vs. Dallas Stars,3/30/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
 Illuminate: Glass Art for Early Learners,Now through 3/31/2024,Museum of Glass,Museums,South,53.3816729,-1.477438,unknown
-Al Young�s 1970 Dodge Challenger Drag Racer,Now through 3/31/2024,Museum of History & Industry,Museums,Queen Anne / Seattle Center,47.6275114,-122.3367506,Mostly Cloudy
+Al Young�s 1970 Dodge Challenger Drag Racer,Now through 3/31/2024,Museum of History & Industry,Museums,Queen Anne / Seattle Center,47.6275114,-122.3367506,Light Rain
 Sanctuary City,3/1/2024 through 3/31/2024,Seattle Rep,Theatre,Queen Anne / Seattle Center,47.6145597,-122.3285576,unknown
 Stew,3/15/2024 through 3/31/2024,ACT Theatre,Theatre,Downtown,47.6108495,-122.3323262,unknown
 Luis Miguel,4/4/2024,Climate Pledge Arena,Music,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
 Taylor Raven and Duke Kim in Recital,4/4/2024,Opera Center,Music,Queen Anne / Seattle Center,44.43358325,26.079138268508792,unknown
 Copland Appalachian Spring,4/4/2024 through 4/6/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
-La Vaughn Belle: A History of Unruly Returns,Now through 4/7/2024,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151,Mostly Cloudy
+La Vaughn Belle: A History of Unruly Returns,Now through 4/7/2024,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151,Rain
 Beetlejuice,4/2/2024 through 4/7/2024,The Paramount Theatre,Theatre,Downtown,38.030837399999996,-78.47999700513506,unknown
 Seattle Kraken vs. Arizona Coyotes,4/9/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
 Seattle Kraken vs. San Jose Sharks,4/11/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
 The Percussion: Sounds from Home,4/12/2024 through 4/13/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
-Honoring 50 Years of Papunya Tula Painting,Now through 4/14/2024,Seattle Art Museum,Museums,Downtown,47.6077008,-122.3385575,Mostly Cloudy
+Honoring 50 Years of Papunya Tula Painting,Now through 4/14/2024,Seattle Art Museum,Museums,Downtown,47.6077008,-122.3385575,Rain
 The Moors,3/22/2024 through 4/14/2024,Seattle Public Theater,Theatre,Wallingford / Greenlake,47.6821341,-122.3398325,unknown
 Mahler Symphony No. 3,4/11/2024 through 4/14/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
 Best of the Northwest Spring Show,4/13/2024 through 4/14/2024,Magnuson Park,Festivals & Special Events,University District,47.6819164,-122.25462087672659,unknown
@@ -239,12 +239,12 @@ The Seasons� Canon,4/12/2024 through 4/21/2024,Marion Oliver McCaw Hall,Dance,
 DRUM TAO 30th Anniversary,4/22/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
 Disney�s Aladdin,4/24/2024 through 4/28/2024,The Paramount Theatre,Theatre,Downtown,38.030837399999996,-78.47999700513506,unknown
 Antarctic Symphony,4/25/2024 through 4/28/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
-Shine On Seattle,1/30/2024 through 4/29/2024,Pioneer Square,Festivals & Special Events,Pioneer Square,47.6030025,-122.3314431,Mostly Cloudy
+Shine On Seattle,1/30/2024 through 4/29/2024,Pioneer Square,Festivals & Special Events,Pioneer Square,47.6030025,-122.3314431,Rain
 Noah Geller�s Playlist,5/3/2024 through 5/4/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
 Broadway Spectacular,5/4/2024,Cornish Playhouse at Seattle Center,Music,Queen Anne / Seattle Center,47.650775949999996,-122.37810030313341,unknown
-Jessica Jackson Hutchins: Wrecked and Righteous,1/27/2024 through 5/5/2024,Frye Art Museum,Museums,Capitol Hill / Central District,47.60719095,-122.32405377084555,Mostly Cloudy
+Jessica Jackson Hutchins: Wrecked and Righteous,1/27/2024 through 5/5/2024,Frye Art Museum,Museums,Capitol Hill / Central District,47.60719095,-122.32405377084555,Rain
 The Lion Tells His Tale,5/1/2024 through 5/5/2024,Broadway Performance Hall,Theatre,Capitol Hill / Central District,47.6158151,-122.32186077039998,unknown
-"Guma� Gela:  Part Land, Part Sea, All Ancestry",Now through 5/12/2024,Wing Luke Museum,Museums,International District,47.5982461,-122.3228705,Mostly Cloudy
+"Guma� Gela:  Part Land, Part Sea, All Ancestry",Now through 5/12/2024,Wing Luke Museum,Museums,International District,47.5982461,-122.3228705,Rain
 Fat Ham,4/12/2024 through 5/12/2024,Seattle Rep,Theatre,Queen Anne / Seattle Center,47.6145597,-122.3285576,unknown
 A Tale of Peter Rabbit,4/25/2024 through 5/12/2024,Seattle Children's Theatre,Theatre,Queen Anne / Seattle Center,47.6204553,-122.35225726215312,unknown
 The Lehman Trilogy,4/26/2024 through 5/12/2024,ACT Theatre,Theatre,Downtown,47.6108495,-122.3323262,unknown
@@ -256,7 +256,7 @@ Unriveled,5/10/2024 through 6/2/2024,Seattle Public Theater,Theatre,Wallingford 
 George Balenchine�s Coppelia,5/31/2024 through 6/9/2024,Marion Oliver McCaw Hall,Dance,Queen Anne / Seattle Center,47.62397705,-122.35038850536958,unknown
 Jan Lisiecki Plays Prokofiev,6/6/2024 through 6/9/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
 Beethoven Symphony No. 5,6/13/2024 through 6/15/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
-Elizabeth Malaska: All Be Your Mirror,Now through 6/16/2024,Seattle Art Museum,Museums,Downtown,47.6077008,-122.3385575,Mostly Cloudy
+Elizabeth Malaska: All Be Your Mirror,Now through 6/16/2024,Seattle Art Museum,Museums,Downtown,47.6077008,-122.3385575,Rain
 Joshua Bell Plays Elements Concerto,6/20/2024 through 6/22/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,unknown
 "Together Again, Again!",5/31/2024 through 6/23/2024,Seattle Rep,Theatre,Queen Anne / Seattle Center,47.6145597,-122.3285576,unknown
 Lip Sync for Our Rights,6/22/2024 through 6/23/2024,Marion Oliver McCaw Hall,Music,Queen Anne / Seattle Center,47.62397705,-122.35038850536958,unknown
@@ -266,13 +266,13 @@ Spring Awakening,6/7/2024 through 6/30/2024,The 5th Avenue Theatre,Theatre,Downt
 Girl From The North Country,6/25/2024 through 6/30/2024,The Paramount Theatre,Music,Downtown,38.030837399999996,-78.47999700513506,unknown
 Nordic Utopia: African Americans in the 20th Century,3/22/2024 through 7/21/2024,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151,unknown
 Clue,7/9/2024 through 7/21/2024,The 5th Avenue Theatre,Theatre,Downtown,39.7329068,-75.1300389,unknown
-"Be Water, My Friend: The Teachings Of Bruce Lee",Now through 7/28/2024,Wing Luke Museum,Museums,International District,47.5982461,-122.3228705,Mostly Cloudy
+"Be Water, My Friend: The Teachings Of Bruce Lee",Now through 7/28/2024,Wing Luke Museum,Museums,International District,47.5982461,-122.3228705,Rain
 Olivia Rodrigo,8/6/2024 through 8/7/2024,Climate Pledge Arena,Music,Queen Anne / Seattle Center,47.6219014,-122.353990491486,unknown
-Hidden Worlds: The Films of LAIKA,Now through 8/31/2024,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,47.621493099999995,-122.34822527405619,Mostly Cloudy
-Sound Check! The Music We Make,Now through 9/14/2024,Wing Luke Museum,Museums,International District,47.5982461,-122.3228705,Mostly Cloudy
-Raul de Nieves,Now through 9/30/2024,Henry Art Gallery,Museums,University District,47.6565246,-122.31173279895636,Mostly Cloudy
-Frye Salon,Now through 10/27/2024,Frye Art Museum,Museums,Capitol Hill / Central District,47.60719095,-122.32405377084555,Mostly Cloudy
-On Native Land: Landscapes from the Haub Family Collection,Now through 11/17/2024,Tacoma Art Museum,Museums,South,47.2475134,-122.43680521780016,Mostly Cloudy
+Hidden Worlds: The Films of LAIKA,Now through 8/31/2024,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,47.621493099999995,-122.34822527405619,Rain
+Sound Check! The Music We Make,Now through 9/14/2024,Wing Luke Museum,Museums,International District,47.5982461,-122.3228705,Rain
+Raul de Nieves,Now through 9/30/2024,Henry Art Gallery,Museums,University District,47.6565246,-122.31173279895636,Light Rain
+Frye Salon,Now through 10/27/2024,Frye Art Museum,Museums,Capitol Hill / Central District,47.60719095,-122.32405377084555,Rain
+On Native Land: Landscapes from the Haub Family Collection,Now through 11/17/2024,Tacoma Art Museum,Museums,South,47.2475134,-122.43680521780016,Rain
 Washi Transformed New Expressions in Japanese Paper,2/2/2024 through 4/26/2026,Bellevue Arts Museum,Museums,Bellevue / Eastside,-21.266983,55.4113864,unknown
 Explore The Market,Ongoing,Pike Place Market,Festivals & Special Events,Downtown,47.60939675,-122.34141017673986,unknown
 Olympic Sculpture Park,Ongoing,Olympic Sculpture Park,Visual Arts & Galleries,Downtown,47.6162378,-122.35431328817567,unknown
