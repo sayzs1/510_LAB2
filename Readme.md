@@ -3,6 +3,11 @@
 scraping information and Use API for TECHIN 510 Lab 2.
 
 ## How to Run
+```
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
 Open the `visitsestille.ipynb` and run each cell
 
 ## What's Included
