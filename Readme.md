@@ -19,6 +19,15 @@ Open the `visitsestille.ipynb` and run each cell
   - Write unknown for an ongoing adn past event
 
 ## Questiones
+- How to Deploy the scraper on GitHub Actions?
+  - first create the `scraper.py `file in repository, then click 'Actions', in the detailed action page, click 'set up a workflow yourself' then choose configuration. We can create periodically git actions in the `.github/workflows/actions.yml `file. 
+  - for example: 
+  ```
+  on:
+  schedule:
+    - cron: '*/15 * * * *' # Run every 15 minutes
+  ```
+
 - How to find the special selector to scrape information from the website?
   - We can select the information first and then click inspect and in the terminal, click 'copy' - 'copy selector'
 - How to deal with real place names to get latitude and longitude information
